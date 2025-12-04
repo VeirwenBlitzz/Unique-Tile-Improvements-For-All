@@ -1,4 +1,4 @@
-# Freer Unique Tile Improvements
+# Unique Tile Improvements For All
 
 Running an only modded Civs game and still want to use the base game unique tile improvements? Now you can.
 
